@@ -1,4 +1,3 @@
 # Hi, This is Analog_Clock using Vanilla JS
 
-<h4>Click below to See </h4>
-<p>https://nazil1712.github.io/Analog_Clock/</p>
+<a href="https://nazil1712.github.io/Analog_Clock/">Click here to See Output</a>
